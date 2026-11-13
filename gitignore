@@ -1,0 +1,9 @@
+# Data (download separately from UCI)
+Anuran Calls (MFCCs)/
+*.csv
+*.zip
+
+.ipynb_checkpoints/
+__pycache__/
+.DS_Store
+__MACOSX/
